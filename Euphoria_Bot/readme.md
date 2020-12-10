@@ -1,0 +1,4 @@
+===== Euphoria Bot =====
+---
+
+READ ME...?
