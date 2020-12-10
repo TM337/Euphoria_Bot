@@ -1,4 +1,4 @@
-===== Euphoria Bot
+Euphoria Bot
 ---
 
 READ ME...?
